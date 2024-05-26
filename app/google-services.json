@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339637614201",
+    "project_id": "quiz-hub-register",
+    "storage_bucket": "quiz-hub-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339637614201:android:3d965d1fb3bf18fa1986a8",
+        "android_client_info": {
+          "package_name": "com.example.quizhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbpupldzPq9dySUZICCeCzr89TDMe5zBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

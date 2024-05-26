@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">QuizHub</string>
+    <string name="get_started">Get Started</string>
+    <string name="its_quiz_app">Your go-to app for fun and challenging quizzes! </string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account_signup">Don\'t have an account? <b>Register</b></string>
+    <string name="please_login_to_continue_this_app">Please Login to continue this app.</string>
+    <string name="login_now">Login Now</string>
+    <string name="enter_your_email_address_and_password_to_get_access_to_your_account">Enter your email address and password to get access to your account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account_login">Already have an account? <b>Login</b></string>
+    <string name="welcome_to_quizhub">Welcome to QuizHub</string>
+    <string name="signup">Register</string>
+    <string name="quiz_yourself_daily">Quiz YourSelf Daily</string>
+    <string name="profile">Profile</string>
+    <string name="follow_us">Follow Us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="submit">Submit</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="your_score">Your Score:</string>
+    <string name="logout">Logout</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="call_us">Call Us</string>
+    <string name="message_us">Message Us</string>
+    <string name="mail_us">Mail Us</string>
+    <string name="createdBy">Created by <b>Ankur Kushwaha</b></string>
+    <string name="follow_us_on">Follow Us On</string>
+    <string name="ignite_your_curiosity_n_elevate_your_knowledge">Ignite Your Curiosity,\n Elevate Your Knowledge!</string>
+    <string name="you_are_offline_turn_on_the_internet_to_login_or_register">You are offline. Turn on the Internet to proceed.</string>
+    <string name="ok">Ok</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="user_name">User Name</string>
+    <string name="save">Save</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+</resources>

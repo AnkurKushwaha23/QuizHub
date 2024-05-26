@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Question"
+        android:textSize="16sp"
+        android:layout_margin="6dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvUserAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="UserAnswer"
+        android:textSize="16sp"
+        android:layout_margin="6dp"
+
+        android:textStyle="bold|italic"/>
+
+    <TextView
+        android:id="@+id/tvAnswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Answer"
+        android:textSize="16sp"
+        android:layout_margin="6dp"
+        android:textColor="@color/correct_answer_color"
+        android:textStyle="bold|italic"/>
+
+</LinearLayout>
